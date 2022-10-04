@@ -1,3 +1,3 @@
 ### Exercício Commerce
 
-<img src="ex.jpeg" width="200" heigth="200">
+<img src="ex.jpeg" width="400" heigth="400">
